@@ -1,1 +1,1 @@
-Refresh your childhold with Snake game in created using Python and PyGame library. :)
+Refresh your childhood with Snake game created using Python and PyGame library. :)
