@@ -1,1 +1,1 @@
-Refresh your childhood with Snake game created using Python and PyGame library. :)
+Refresh your childhood memories with Snake game created using Python and PyGame library. :)
